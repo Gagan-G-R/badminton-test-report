@@ -3,5 +3,20 @@
     "slug": "r0-4",
     "video": "R0-4_UHD_60_game",
     "published": "2026-11-14"
+  },
+  {
+    "slug": "r2-random-game",
+    "video": "R2-random-game",
+    "published": "2026-11-14"
+  },
+  {
+    "slug": "r2-good-game",
+    "video": "R2-good-game",
+    "published": "2026-11-14"
+  },
+  {
+    "slug": "r2-bad-game",
+    "video": "R2-bad-game",
+    "published": "2026-11-14"
   }
 ]
